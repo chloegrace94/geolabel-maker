@@ -1,3 +1,13 @@
+# Installation guide - added by CY
+
+## Steps
+1. Create conda environment specifying python 3.6
+2. pip install the requirements.txt file
+3. conda install the conda_requirements.txt file
+4. pip install geolabel-maker using: `pip install geolabel-maker`
+
+
+
 # geolabel-maker
 
 This tool is provided to help you in your **data preparation for geospatial artificial intelligence**.
