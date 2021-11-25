@@ -1,0 +1,7 @@
+{
+  "buildings": {
+    "id": 1,
+    "file": "/home/ot19968/data/OS_OpenMap_Local/Tile_ST_Bristol/json/ST_Building.geojson",
+    "color": [255, 255, 255]
+  }
+}
