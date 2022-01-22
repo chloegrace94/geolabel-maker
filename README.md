@@ -2,9 +2,16 @@
 
 ## Steps
 1. Create conda environment specifying python 3.6
-2. pip install the requirements.txt file
-3. conda install the conda_requirements.txt file
-4. pip install geolabel-maker using: `pip install geolabel-maker`
+2. pip install the requirements.txt file after removing the following
+gdal==2.3.3
+geos==3.7.1
+proj4==5.2.0
+3. Use conda to install the following
+gdal==2.3.3
+geos==3.7.1
+proj4==5.2.0
+4. conda install the conda_requirements.txt file
+5. pip install geolabel-maker using: `pip install geolabel-maker`
 
 
 
